@@ -1,46 +1,44 @@
-# 🚗 AutoSage – AI Vehicle Expert App
+#  AutoSage – AI Vehicle App
 
-AutoSage is an AI-powered vehicle expert web application built using **Python**, **Streamlit**, and **Google Gemini Flash**.  
-It helps users get intelligent insights about two-wheelers and four-wheelers including specifications, comparisons, maintenance tips, and eco-friendly recommendations using both **text and image inputs**.
+AutoSage is an AI-powered vehicle expert web application built with Python, Streamlit, and Google Gemini Flash. It provides users with intelligent insights about two-wheelers and four-wheelers, including specifications, comparisons, maintenance tips, and eco-friendly recommendations — all through text and image inputs.
 
 ---
 
 ## 📌 Problem Statement
 
-Choosing the right vehicle requires analyzing specifications, pricing, mileage, maintenance needs, and environmental impact.  
-This information is often scattered across multiple platforms and difficult for users to compare.
+Choosing the right vehicle can be challenging because information about specifications, pricing, mileage, maintenance, and environmental impact is often scattered across multiple platforms. Users struggle to compare options and make informed decisions.
 
 ---
 
 ## ✅ Solution
 
-AutoSage provides a **single intelligent platform** where users can:
-- Ask vehicle-related questions
-- Upload vehicle images
-- Get AI-generated, structured vehicle insights
-- Make informed purchasing and maintenance decisions
+AutoSage solves this problem by providing a single intelligent platform where users can:
 
+- Ask vehicle-related questions using text prompts
+- Upload vehicle images for analysis
+- Receive AI-generated, structured insights about vehicles
+- Make informed decisions about purchasing, maintenance, and eco-friendly choices
 ---
 
 ## 🚀 Features
 
-- 🔍 Vehicle information using AI
-- 🆚 Vehicle comparison support
-- 🛠️ Maintenance tips
-- 🌱 Eco-friendly vehicle insights
-- 🖼️ Image-based vehicle analysis
-- ⚡ Fast responses using Gemini Flash
-- 🌐 Web-based UI using Streamlit
+- 🔍 Vehicle Information: Get detailed specifications and insights using AI
+- 🆚 Vehicle Comparison: Compare multiple models easily
+- 🛠️ Maintenance Tips: Guidance for upkeep and servicing
+- 🌱 Eco-Friendly Insights: Recommendations for greener driving
+- 🖼️ Image-Based Analysis: Analyze vehicles from uploaded images
+- ⚡ Fast Responses: Powered by Google Gemini Flash
+- 🌐 Web-Based UI: Built with Streamlit for a smooth interactive experience
 
 ---
 
 ## 🧠 Technologies Used
 
-- **Python**
-- **Streamlit**
-- **Google Gemini Flash API**
-- **Generative AI**
-- **Cloud Deployment (Streamlit Cloud)**
+- Python – Backend logic and AI integration
+- Streamlit – Web application interface
+- Google Gemini Flash API – AI engine for text and image analysis
+- Generative AI – To generate structured vehicle insights
+- Cloud Deployment – Optional deployment via Streamlit Cloud
 
 ---
 
