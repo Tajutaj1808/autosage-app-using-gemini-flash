@@ -22,7 +22,7 @@ AutoSage solves this problem by providing a single intelligent platform where us
 
 ![image alt](https://github.com/Tajutaj1808/autosage-app-using-gemini-flash/blob/e1010dad7fabc3d47d8ddcacd21ea417456d4bdf/output1.jpg)
 ![image alt](https://github.com/Tajutaj1808/autosage-app-using-gemini-flash/blob/e1010dad7fabc3d47d8ddcacd21ea417456d4bdf/output2.jpg)
-![image alt](
+![image alt](https://github.com/Tajutaj1808/autosage-app-using-gemini-flash/blob/e67b2fafe3d3654424c2fa97c6ccb14b6526b8db/output3.png)
 ---
 
 ## 🚀 Features
