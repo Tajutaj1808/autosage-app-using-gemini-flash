@@ -51,3 +51,12 @@ AutoSage/
 ├── requirements.txt
 ├── images/
 └── README.md
+
+## ▶️ How to Run the Project
+1. Clone the repository
+   ```bash
+   git clone https://github.com/your-username/AutoSage.git
+2.Install dependencies
+   pip install -r requirements.txt
+3.Run the app
+   streamlit run app.py
