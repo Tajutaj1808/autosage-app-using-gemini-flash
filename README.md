@@ -19,6 +19,10 @@ AutoSage solves this problem by providing a single intelligent platform where us
 - Upload vehicle images for analysis
 - Receive AI-generated, structured insights about vehicles
 - Make informed decisions about purchasing, maintenance, and eco-friendly choices
+
+![image alt](https://github.com/Tajutaj1808/autosage-app-using-gemini-flash/blob/e1010dad7fabc3d47d8ddcacd21ea417456d4bdf/output1.jpg)
+![image alt](https://github.com/Tajutaj1808/autosage-app-using-gemini-flash/blob/e1010dad7fabc3d47d8ddcacd21ea417456d4bdf/output2.jpg)
+![image alt](
 ---
 
 ## 🚀 Features
