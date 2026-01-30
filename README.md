@@ -2,6 +2,7 @@
 
 AutoSage is an AI-powered vehicle expert web application built with Python, Streamlit, and Google Gemini Flash. It provides users with intelligent insights about two-wheelers and four-wheelers, including specifications, comparisons, maintenance tips, and eco-friendly recommendations — all through text and image inputs.
 
+![image alt](https://github.com/Tajutaj1808/autosage-app-using-gemini-flash/blob/aca110148ec7bee324d3404970cb1a948ed3eaf4/home.jpg)
 ---
 
 ## 📌 Problem Statement
